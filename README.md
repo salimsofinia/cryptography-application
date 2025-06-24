@@ -41,7 +41,7 @@ This tool is intended for educational purposes only and should not be used in pr
 
 ---
 
-## Authors
+## Contributors
 - Salim Sofinia
   - Columnar Transposition Cipher
   - Custom Secure Cipher
